@@ -6,5 +6,5 @@
 و ايضا عدلت كود الصفحة الثانية بايشياء اخذناها في الدورة 
 
 
-![](/readme_images/Homepage.jpg)
-![](/readme_images/chatscreen.jpg)
+![](/readme_images/Homepage.png)
+![](/readme_images/chatscreen.png)
